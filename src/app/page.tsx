@@ -8,7 +8,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
     pawan
     {state}
-    <Link href="/about">this is the about page</Link>
+    <Link href="/about">this is the nice page</Link>
     </main>
   );
 }
